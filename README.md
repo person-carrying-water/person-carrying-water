@@ -41,7 +41,6 @@
 ## :stars:リポジトリ(:arrow_down:プログラムソース確認はこちら:arrow_down:)  
 [![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=person-carrying-water&repo=MyBatisDesktopSqlSvr&theme=nord)](https://github.com/person-carrying-water/MyBatisDesktopSqlSvr)
 [![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=person-carrying-water&repo=JavaFxSample&theme=nord)](https://github.com/person-carrying-water/JavaFxSample)
-[![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=person-carrying-water&repo=WpfStarterLearning&theme=nord)](https://github.com/person-carrying-water/WpfStarterLearning)
 [![Repo4](https://github-readme-stats.vercel.app/api/pin/?username=person-carrying-water&repo=UwpStarterLearning&theme=nord)](https://github.com/person-carrying-water/UwpStarterLearning)
 [![Repo5](https://github-readme-stats.vercel.app/api/pin/?username=person-carrying-water&repo=Junit4Sample&theme=nord)](https://github.com/person-carrying-water/Junit4Sample)
 [![Repo6](https://github-readme-stats.vercel.app/api/pin/?username=person-carrying-water&repo=Junit5Sample&theme=nord)](https://github.com/person-carrying-water/Junit5Sample)
